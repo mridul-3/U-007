@@ -1,7 +1,7 @@
 <div align="center">
  
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Mridul Sharma
-![Profile Views](https://komarev.com/ghpvc/?username=U-007)
+![Profile Views](https://komarev.com/ghpvc/?username=mridul-3)
 ### Connect with me:
 </div>
 <div align="center">
